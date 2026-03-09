@@ -1,0 +1,17 @@
+{
+  "name": "full-stack-backend-youtubextwitter",
+  "version": "1.0.0",
+  "description": "a full stack application",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "shashank kushwaha",
+  "type": "commonjs",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
